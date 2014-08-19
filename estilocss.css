@@ -1,0 +1,95 @@
+h1{
+	text-align: center;
+}
+
+main{
+	display: block;
+	clear:both;
+	width:70%;
+	margin:0 auto;
+	text-align:left;
+	margin-bottom: 200px;
+	padding-bottom: 50px;
+}
+
+#mov1{
+	text-align:center;
+	margin:0;
+	padding: 0;
+	position: relative;
+	width: 60px;
+	height: 40px;
+	background-color: #3B5A9A;
+	transition-duration:0.5s;
+}
+
+#mov2{
+	text-align:center;
+	margin:0;
+	padding: 0;
+	position: relative;
+	width: 60px;
+	height: 40px;
+	background-color: #DF4B38;
+	transition-duration:0.5s;
+}
+
+#mov3{
+	text-align:center;
+	margin:0;
+	padding: 0;
+	position: relative;
+	width: 60px;
+	height: 40px;
+	background-color: #117BB8;
+	transition-duration:0.5s;
+}
+
+#mov4{
+	text-align:center;
+	margin:0;
+	padding: 0;
+	position: relative;
+	width: 60px;
+	height: 40px;
+	background-color: #26ADE3;
+	transition-duration:0.5s;
+}
+
+#mov5{
+	text-align:center;
+	margin:0;
+	padding: 0;
+	position: relative;
+	width: 60px;
+	height: 40px;
+	background-color: #29A9E1;
+	transition-duration:0.5s;
+}
+
+#mov1:hover{
+	width: 100px;
+}
+
+#mov2:hover{
+	width: 100px;
+}
+
+#mov3:hover{
+	width: 100px;
+}
+
+#mov4:hover{
+	width: 100px;	
+}
+
+#mov5:hover{
+	width: 100px;
+}
+
+#redes{
+	z-index: 1000;
+	position: fixed;
+	bottom: 40%;
+	left: -10px;
+}
